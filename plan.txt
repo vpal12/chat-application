@@ -1,0 +1,9 @@
+*creat npm peoject
+*creat index,css,js,files
+*install dependancies. express, nodemon (dev dep.)
+*creat a express server (server.js)
+*do frontend part
+*install socket.io setup socket.io  in server.js and client client.js 
+*client send message logic in client.js
+*receive message on server and broad cast to all clients
+*receive message on client and dislpay it scrolltobottom etc
